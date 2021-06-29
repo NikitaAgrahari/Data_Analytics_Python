@@ -1,7 +1,7 @@
 # Data_Analytics_Projects
 This is a compilation of my data analytics projects.
 
-1.Real Estate Data Analysis (Data Analysis)
+####1.Real Estate Data Analysis (Data Analysis)
 
 PROBLEM STATEMENT:
 Do an exploratory data analysis on the real-estate dataset on Bangalore. Draw relevant insights after the analysis.
@@ -11,7 +11,7 @@ Exploratory data analysis is an approach to analyzing data sets to summarize the
 
 [Click Here to View](https://github.com/NikitaAgrahari/Codes_Python/blob/main/final_house_price_prediction.ipynb)
 
-2.Startup Funding Data Analysis (Data Analysis)
+####2.Startup Funding Data Analysis (Data Analysis)
 
 PROBLEM STATEMENT:
 Analyse the dataset on the 'Funding to the startups' and draw valuable insights from it.
