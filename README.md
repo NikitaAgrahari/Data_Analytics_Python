@@ -17,6 +17,10 @@ PROBLEM STATEMENT:
 Analyse the dataset on the 'Funding to the startups' and draw valuable insights from it.
 
 DESCRIPTION:
-Startup funding — or startup capital — is the money needed to launch a new business. It can come from a variety of sources and can be used for any purpose that helps the startup go from idea to actual business. Our task is to analyse the trend of this funding. Possible questions that could be answered after analysis can be : 1. How does the funding ecosystem change with time? 2. Do cities play a major role in funding? 3. Which industries are favored by investors for funding? 4. Who are the important investors in the Indian Ecosystem? 5. How much funds does startups generally get in India?
+Startup funding — or startup capital — is the money needed to launch a new business. It can come from a variety of sources and can be used for any purpose that helps the startup go from idea to actual business. Our task is to analyse the trend of this funding. Possible questions that could be answered after analysis can be : 
+1. How does the funding ecosystem change with time? 
+2. Do cities play a major role in funding? 
+3. Which industries are favored by investors for funding? 
+4. Who are the important investors in the Indian Ecosystem? 5. How much funds does startups generally get in India?
 
 [Click Here to View](https://github.com/NikitaAgrahari/Codes_Python/blob/main/startup_funding_analysis.ipynb)
