@@ -21,6 +21,7 @@ Startup funding — or startup capital — is the money needed to launch a new b
 1. How does the funding ecosystem change with time? 
 2. Do cities play a major role in funding? 
 3. Which industries are favored by investors for funding? 
-4. Who are the important investors in the Indian Ecosystem? 5. How much funds does startups generally get in India?
+4. Who are the important investors in the Indian Ecosystem? 
+5. How much funds does startups generally get in India?
 
 [Click Here to View](https://github.com/NikitaAgrahari/Codes_Python/blob/main/startup_funding_analysis.ipynb)
